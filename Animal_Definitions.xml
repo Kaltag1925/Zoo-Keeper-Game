@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <Animal type="Mammal">
+        <Animal type="Wolf" averageFoodPerDay="5.0" diet="Carnivore" lifeExpectancyFemale="4745.0"
+                lifeExpectancyMale="4745.0">
+            <BodyPart name="torso" tags="base,template:mammal torso,">
+                <BodyPart name="neck" tags="attached,">
+                    <BodyPart name="head" tags="attached,template:head with snout,"/>
+                </BodyPart>
+                <BodyPart name="front left leg"
+                          tags="attached,template:four claw leg with dew claw,position:front left,"/>
+                <BodyPart name="front right leg"
+                          tags="attached,template:four claw leg with dew claw,position:front right,"/>
+                <BodyPart name="back left leg" tags="attached,template:five claw leg,position:back left,"/>
+                <BodyPart name="back right leg" tags="attached,template:five claw leg,position:back right,"/>
+                <BodyPart name="tail" tags="attached,"/>
+            </BodyPart>
+            <EyeColors dataSaved="java.util.HashMap:java.lang.String,java.util.ArrayList">
+                <EyeColors dataSaved="java.util.ArrayList:java.lang.String" key="adultEyes">
+                    <EyeColors value="amber"/>
+                    <EyeColors value="brown"/>
+                    <EyeColors value="gold"/>
+                    <EyeColors value="green"/>
+                    <EyeColors value="gray"/>
+                    <EyeColors value="yellow"/>
+                </EyeColors>
+                <EyeColors dataSaved="java.util.ArrayList:java.lang.String" key="youngEyes">
+                    <EyeColors value="blue"/>
+                </EyeColors>
+            </EyeColors>
+            <Animal basePrice="252000.0" type="Grey Wolf">
+                <ColorInfo dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                    <ColorInfo key="minCoatColors" value="1"/>
+                    <ColorInfo key="maxCoatColors" value="4"/>
+                </ColorInfo>
+                <CoatColors dataSaved="java.util.concurrent.CopyOnWriteArrayList:Engine.Logic.CoatColorGroup">
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="white" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="light brown" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="dark brown" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="brown" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="black" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="gray" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="tan" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                </CoatColors>
+            </Animal>
+            <Animal basePrice="382000.0" type="Arctic Wolf">
+                <ColorInfo dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                    <ColorInfo key="minCoatColors" value="1"/>
+                    <ColorInfo key="maxCoatColors" value="3"/>
+                </ColorInfo>
+                <CoatColors dataSaved="java.util.concurrent.CopyOnWriteArrayList:Engine.Logic.CoatColorGroup">
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="white" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="grey" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="tan" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                </CoatColors>
+            </Animal>
+            <Animal basePrice="500000.0" type="Red Wolf">
+                <ColorInfo dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                    <ColorInfo key="minCoatColors" value="3"/>
+                    <ColorInfo key="maxCoatColors" value="3"/>
+                </ColorInfo>
+                <CoatColors dataSaved="java.util.concurrent.CopyOnWriteArrayList:Engine.Logic.CoatColorGroup">
+                    <CoatColors required="true">
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="light red" value="2"/>
+                            <Colors key="dark red" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="tan" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="black" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="grey" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                </CoatColors>
+            </Animal>
+            <Animal basePrice="550000.0" type="Mexican Grey Wolf">
+                <ColorInfo dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                    <ColorInfo key="minCoatColors" value="3"/>
+                    <ColorInfo key="maxCoatColors" value="3"/>
+                </ColorInfo>
+                <CoatColors dataSaved="java.util.concurrent.CopyOnWriteArrayList:Engine.Logic.CoatColorGroup">
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="black" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="tan" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="red" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                </CoatColors>
+            </Animal>
+        </Animal>
+        <Animal type="Bear" averageFoodPerDay="15.0" diet="Carnivore" lifeExpectancyFemale="9490.0">
+            <BodyPart name="torso" tags="base,template:mammal torso,">
+                <BodyPart name="neck" tags="attached,">
+                    <BodyPart name="head" tags="attached,template:head with snout,"/>
+                </BodyPart>
+                <BodyPart name="front left leg" tags="attached,template:five claw leg,position:front left,"/>
+                <BodyPart name="front right leg" tags="attached,template:five claw leg,position:front right,"/>
+                <BodyPart name="back left leg" tags="attached,template:five claw leg,position:back left,"/>
+                <BodyPart name="back right leg" tags="attached,template:five claw leg,position:back right,"/>
+                <BodyPart name="tail" tags="attached,"/>
+            </BodyPart>
+            <ColorInfo dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                <ColorInfo key="minCoatColors" value="1"/>
+                <ColorInfo key="maxCoatColors" value="1"/>
+            </ColorInfo>
+            <EyeColors dataSaved="java.util.HashMap:java.lang.String,java.util.ArrayList">
+                <EyeColors dataSaved="java.util.ArrayList:java.lang.String" key="adultEyes">
+                    <EyeColors value="brown"/>
+                </EyeColors>
+                <EyeColors dataSaved="java.util.ArrayList:java.lang.String" key="youngEyes">
+                    <EyeColors value="brown"/>
+                </EyeColors>
+            </EyeColors>
+            <Animal basePrice="490000.0" lifeExpectancyFemale="12775.0" lifeExpectancyMale="10950.0" type="Polar Bear">
+                <CoatColors dataSaved="java.util.concurrent.CopyOnWriteArrayList:Engine.Logic.CoatColorGroup">
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="white" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                </CoatColors>
+            </Animal>
+            <Animal basePrice="395000.0" lifeExpectancyMale="7665.0" type="Black Bear">
+                <CoatColors dataSaved="java.util.concurrent.CopyOnWriteArrayList:Engine.Logic.CoatColorGroup">
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="black" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                </CoatColors>
+            </Animal>
+            <Animal basePrice="725000.0" lifeExpectancyMale="8030.0" type="Brown Bear">
+                <CoatColors dataSaved="java.util.concurrent.CopyOnWriteArrayList:Engine.Logic.CoatColorGroup">
+                    <CoatColors>
+                        <Colors dataSaved="java.util.HashMap:java.lang.String,java.lang.Integer">
+                            <Colors key="brown" value="1"/>
+                        </Colors>
+                    </CoatColors>
+                </CoatColors>
+            </Animal>
+        </Animal>
+    </Animal>
+</data>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <FirstName>
+        <Name name="Robert" conditions="male,"/>
+        <Name name="Philip" conditions="male,"/>
+        <Name name="William" conditions="male,"/>
+        <Name name="Gerald" conditions="male,"/>
+        <Name name="Sterling" conditions="male,"/>
+        <Name name="Cecil" conditions="male,"/>
+        <Name name="Stacy" conditions="female,"/>
+        <Name name="Sharon" conditions="female,"/>
+        <Name name="Elizabeth" conditions="female,"/>
+        <Name name="Sandra" conditions="female,"/>
+        <Name name="Deborah" conditions="female,"/>
+        <Name name="Rebbecca" conditions="female,"/>
+    </FirstName>
+    <LastName>
+        <Name name="Davis" conditions=""/>
+        <Name name="Vanderbilt" conditions=""/>
+    </LastName>
+</data>

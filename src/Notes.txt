@@ -1,0 +1,12 @@
+Have Jobs.xml contain:
+Job Name -
+Pay -
+Skill Multipliers -
+Skills Needed-
+
+Have a Skills.xml containing:
+Skill Name -
+Difficulty -
+
+Have a Tasks.xml containing:
+Task Name -

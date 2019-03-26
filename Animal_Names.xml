@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <Name name="Tony">
+        <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.util.concurrent.CopyOnWriteArrayList">
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="tiger"/>
+            </Conditions>
+        </Conditions>
+    </Name>
+    <Name name="Kaltag">
+        <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.util.concurrent.CopyOnWriteArrayList">
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="tan"/>
+                <Conditions value="light brown"/>
+                <Conditions value="brown"/>
+            </Conditions>
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value=""/>
+            </Conditions>
+        </Conditions>
+    </Name>
+    <Name name="Ursa">
+        <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.util.concurrent.CopyOnWriteArrayList">
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="bear"/>
+            </Conditions>
+        </Conditions>
+    </Name>
+    <Name name="Nikai"/>
+    <Name name="Max">
+        <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.util.concurrent.CopyOnWriteArrayList">
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="male"/>
+            </Conditions>
+        </Conditions>
+    </Name>
+    <Name name="Zephyer"/>
+    <Name name="Balto">
+        <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.util.concurrent.CopyOnWriteArrayList">
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="wolf"/>
+            </Conditions>
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="male"/>
+            </Conditions>
+        </Conditions>
+    </Name>
+    <Name name="Coda"/>
+    <Name name="Rose">
+        <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.util.concurrent.CopyOnWriteArrayList">
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="female"/>
+            </Conditions>
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="light red"/>
+                <Conditions value="red"/>
+                <Conditions value="dark red"/>
+            </Conditions>
+        </Conditions>
+    </Name>
+    <Name name="Mocha">
+        <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.util.concurrent.CopyOnWriteArrayList">
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="wolf"/>
+            </Conditions>
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="male"/>
+            </Conditions>
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="light brown"/>
+                <Conditions value="brown"/>
+                <Conditions value="dark brown"/>
+            </Conditions>
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value=""/>
+            </Conditions>
+        </Conditions>
+    </Name>
+    <Name name="Remus">
+        <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.util.concurrent.CopyOnWriteArrayList">
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="wolf"/>
+            </Conditions>
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="male"/>
+            </Conditions>
+        </Conditions>
+    </Name>
+    <Name name="Davis"/>
+    <Name name="Hobbes">
+        <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.util.concurrent.CopyOnWriteArrayList">
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="tiger"/>
+            </Conditions>
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="male"/>
+            </Conditions>
+        </Conditions>
+    </Name>
+    <Name name="Nikki"/>
+    <Name name="Calvin">
+        <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.util.concurrent.CopyOnWriteArrayList">
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="male"/>
+            </Conditions>
+        </Conditions>
+    </Name>
+    <Name name="Star"/>
+    <Name name="Atka">
+        <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.util.concurrent.CopyOnWriteArrayList">
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="wolf"/>
+            </Conditions>
+        </Conditions>
+    </Name>
+    <Name name="Pip">
+        <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.util.concurrent.CopyOnWriteArrayList">
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="male"/>
+            </Conditions>
+        </Conditions>
+    </Name>
+    <Name name="Cloud">
+        <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.util.concurrent.CopyOnWriteArrayList">
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="white"/>
+            </Conditions>
+        </Conditions>
+    </Name>
+    <Name name="Charlie">
+        <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.util.concurrent.CopyOnWriteArrayList">
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="male"/>
+            </Conditions>
+        </Conditions>
+    </Name>
+    <Name name="Jack">
+        <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.util.concurrent.CopyOnWriteArrayList">
+            <Conditions dataSaved="java.util.concurrent.CopyOnWriteArrayList:java.lang.String">
+                <Conditions value="male"/>
+            </Conditions>
+        </Conditions>
+    </Name>
+</data>

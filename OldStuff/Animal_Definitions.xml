@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <Animal animalSpecies="Grey Wolf" diet="Carnivore"
+            class="Mammal" family="Wolf" lifeExpectancyFemale="4745" lifeExpectancyMale="4745"
+            basePrice="252000" primaryColors="white,light brown,dark brown,brown,black,gray,tan,"
+            secondaryColors="white,light brown,dark brown,brown,black,gray,tan,"
+            tertiaryColors="white,light brown,dark brown,brown,black,gray,tan,"
+            quaternaryColors="white,light brown,dark brown,brown,black,gray,tan," minCoatColors="1" maxCoatColors="4"
+            eyeColorYoung="blue," eyeColorAdult="amber,brown,gold,green,gray,yellow,"
+            tags="hasBlood,hasBreathing,hasDigestion,
+            allergy:grape:kidney failure,
+            allergy:chocolate:(stomach pain,vomiting,diarrhea,dehydration,heart attack,internal bleeding,seizure,),
+            allergy:avocado:(lung fluid,heart fluid,),"
+            averageFoodPerDay="5">
+        <BodyPart name="torso" tags="base,template:mammal torso,">
+            <BodyPart name="neck" tags="attached,">
+                <BodyPart name="head" tags="attached,template:head with snout,"/>
+            </BodyPart>
+            <BodyPart name="front left leg" tags="attached,template:four claw leg with dew claw,position:front left,"/>
+            <BodyPart name="front right leg"
+                      tags="attached,template:four claw leg with dew claw,position:front right,"/>
+            <BodyPart name="back left leg" tags="attached,template:five claw leg,position:back left,"/>
+            <BodyPart name="back right leg" tags="attached,template:five claw leg,position:back right,"/>
+            <BodyPart name="tail" tags="attached,"/>
+        </BodyPart>
+    </Animal>
+    <Animal animalSpecies="Arctic Wolf" diet="Carnivore"
+            class="Mammal" family="Wolf" lifeExpectancyFemale="4745" lifeExpectancyMale="4745"
+            basePrice="382000" primaryColors="white,tan," secondaryColors="white,gray,tan,"
+            tertiaryColors="white,gray,tan," quaternaryColors="" minCoatColors="1" maxCoatColors="3"
+            eyeColorYoung="blue," eyeColorAdult="amber,brown,gold,green,gray,yellow,"
+            tags="hasBlood,hasBreathing,hasDigestion,
+            allergy:grape:kidney failure,
+            allergy:chocolate:(stomach pain,vomiting,diarrhea,dehydration,heart attack,internal bleeding,seizure,),
+            allergy:avocado:(lung fluid,heart fluid,),"
+            averageFoodPerDay="5">
+        <BodyPart name="torso" tags="base,template:mammal torso,">
+            <BodyPart name="neck" tags="attached,">
+                <BodyPart name="head" tags="attached,template:head with snout,"/>
+            </BodyPart>
+            <BodyPart name="front left leg" tags="attached,template:four claw leg with dew claw,position:front left,"/>
+            <BodyPart name="front right leg"
+                      tags="attached,template:four claw leg with dew claw,position:front right,"/>
+            <BodyPart name="back left leg" tags="attached,template:five claw leg,position:back left,"/>
+            <BodyPart name="back right leg" tags="attached,template:five claw leg,position:back right,"/>
+            <BodyPart name="tail" tags="attached,"/>
+        </BodyPart>
+    </Animal>
+    <Animal animalSpecies="Red Wolf" diet="Carnivore"
+            class="Mammal" family="Wolf" lifeExpectancyFemale="4745" lifeExpectancyMale="4745"
+            basePrice="500000" primaryColors="black,gray," secondaryColors="dark red,light red," tertiaryColors="tan,"
+            quaternaryColors="" minCoatColors="3" maxCoatColors="3"
+            eyeColorYoung="blue," eyeColorAdult="amber,brown,gold,green,gray,yellow,"
+            tags="hasBlood,hasBreathing,hasDigestion,
+            allergy:grape:kidney failure,
+            allergy:chocolate:(stomach pain,vomiting,diarrhea,dehydration,heart attack,internal bleeding,seizure,),
+            allergy:avocado:(lung fluid,heart fluid,),"
+            averageFoodPerDay="5">
+        <BodyPart name="torso" tags="base,template:mammal torso,">
+            <BodyPart name="neck" tags="attached,">
+                <BodyPart name="head" tags="attached,template:head with snout,"/>
+            </BodyPart>
+            <BodyPart name="front left leg" tags="attached,template:four claw leg with dew claw,position:front left,"/>
+            <BodyPart name="front right leg"
+                      tags="attached,template:four claw leg with dew claw,position:front right,"/>
+            <BodyPart name="back left leg" tags="attached,template:five claw leg,position:back left,"/>
+            <BodyPart name="back right leg" tags="attached,template:five claw leg,position:back right,"/>
+            <BodyPart name="tail" tags="attached,"/>
+        </BodyPart>
+    </Animal>
+    <Animal animalSpecies="Mexican Grey Wolf" diet="Carnivore"
+            class="Mammal" family="Wolf" lifeExpectancyFemale="4745" lifeExpectancyMale="4745"
+            basePrice="550000" primaryColors="black," secondaryColors="red," tertiaryColors="tan," quaternaryColors=""
+            minCoatColors="3" maxCoatColors="3"
+            eyeColorYoung="blue," eyeColorAdult="amber,brown,gold,green,gray,yellow,"
+            tags="hasBlood,hasBreathing,hasDigestion,
+            allergy:grape:kidney failure,
+            allergy:chocolate:(stomach pain,vomiting,diarrhea,dehydration,heart attack,internal bleeding,seizure,),
+            allergy:avocado:(lung fluid,heart fluid,),"
+            averageFoodPerDay="5">
+        <BodyPart name="torso" tags="base,template:mammal torso,">
+            <BodyPart name="neck" tags="attached,">
+                <BodyPart name="head" tags="attached,template:head with snout,"/>
+            </BodyPart>
+            <BodyPart name="front left leg" tags="attached,template:four claw leg with dew claw,position:front left,"/>
+            <BodyPart name="front right leg"
+                      tags="attached,template:four claw leg with dew claw,position:front right,"/>
+            <BodyPart name="back left leg" tags="attached,template:five claw leg,position:back left,"/>
+            <BodyPart name="back right leg" tags="attached,template:five claw leg,position:back right,"/>
+            <BodyPart name="tail" tags="attached,"/>
+        </BodyPart>
+    </Animal>
+    <Animal animalSpecies="Polar Bear" diet="Carnivore"
+            class="Mammal" family="Bear" lifeExpectancyFemale="12775" lifeExpectancyMale="10950"
+            basePrice="490000" primaryColors="white," secondaryColors="" tertiaryColors=""
+            quaternaryColors="" minCoatColors="1" maxCoatColors="1"
+            eyeColorYoung="brown," eyeColorAdult="brown,"
+            averageFoodPerDay="15">
+        <BodyPart name="torso" tags="base,template:mammal torso,">
+            <BodyPart name="neck" tags="attached,">
+                <BodyPart name="head" tags="attached,template:head with snout,"/>
+            </BodyPart>
+            <BodyPart name="front left leg" tags="attached,template:five claw leg,position:front left,"/>
+            <BodyPart name="front right leg" tags="attached,template:five claw leg,position:front right,"/>
+            <BodyPart name="back left leg" tags="attached,template:five claw leg,position:back left,"/>
+            <BodyPart name="back right leg" tags="attached,template:five claw leg,position:back right,"/>
+            <BodyPart name="tail" tags="attached,"/>
+        </BodyPart>
+    </Animal>
+    <Animal animalSpecies="Black Bear" diet="Carnivore"
+            class="Mammal" family="Bear" lifeExpectancyFemale="9490" lifeExpectancyMale="7665"
+            basePrice="395000" primaryColors="black," secondaryColors="" tertiaryColors=""
+            quaternaryColors="" minCoatColors="1" maxCoatColors="1"
+            eyeColorYoung="brown," eyeColorAdult="brown,"
+            averageFoodPerDay="15">
+        <BodyPart name="torso" tags="base,template:mammal torso,">
+            <BodyPart name="neck" tags="attached,">
+                <BodyPart name="head" tags="attached,template:head with snout,"/>
+            </BodyPart>
+            <BodyPart name="front left leg" tags="attached,template:five claw leg,position:front left,"/>
+            <BodyPart name="front right leg" tags="attached,template:five claw leg,position:front right,"/>
+            <BodyPart name="back left leg" tags="attached,template:five claw leg,position:back left,"/>
+            <BodyPart name="back right leg" tags="attached,template:five claw leg,position:back right,"/>
+            <BodyPart name="tail" tags="attached,"/>
+        </BodyPart>
+    </Animal>
+    <Animal animalSpecies="Brown Bear" diet="Carnivore"
+            class="Mammal" family="Bear" lifeExpectancyFemale="9490" lifeExpectancyMale="8030"
+            basePrice="725000" primaryColors="brown," secondaryColors="" tertiaryColors=""
+            quaternaryColors="" minCoatColors="1" maxCoatColors="1"
+            eyeColorYoung="brown," eyeColorAdult="brown,"
+            averageFoodPerDay="15">
+        <BodyPart name="torso" tags="base,template:mammal torso,">
+            <BodyPart name="neck" tags="attached,">
+                <BodyPart name="head" tags="attached,template:head with snout,"/>
+            </BodyPart>
+            <BodyPart name="front left leg" tags="attached,template:five claw leg,position:front left,"/>
+            <BodyPart name="front right leg" tags="attached,template:five claw leg,position:front right,"/>
+            <BodyPart name="back left leg" tags="attached,template:five claw leg,position:back left,"/>
+            <BodyPart name="back right leg" tags="attached,template:five claw leg,position:back right,"/>
+            <BodyPart name="tail" tags="attached,"/>
+        </BodyPart>
+    </Animal>
+</data>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <FoodType type="meat" diet="carnivore">
+        <FoodType type="beef"/>
+        <FoodType type="chicken"/>
+        <FoodType type="turkey"/>
+    </FoodType>
+    <FoodType type="vegetables" diet="herbivore">
+        <FoodType type="carrot"/>
+        <FoodType type="lettuce"/>
+        <FoodType type="celery"/>
+    </FoodType>
+    <FoodType type="fruit" diet="herbivore">
+        <FoodType type="tomato"/>
+        <FoodType type="grape"/>
+        <FoodType type="pineapple"/>
+        <FoodType type="avocado"/>
+    </FoodType>
+    <FoodType type="misc" diet="herbivore">
+        <FoodType type="chocolate"/>
+    </FoodType>
+</data>

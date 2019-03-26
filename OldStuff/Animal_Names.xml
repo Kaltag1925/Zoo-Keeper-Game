@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <Name name="Mocha" conditions="wolf,male,(light brown,brown,dark brown,),"/>
+    <Name name="Balto" conditions="wolf,male,"/>
+    <Name name="Atka" conditions="wolf,"/>
+    <Name name="Cloud" conditions="white,"/>
+    <Name name="Ursa" conditions="bear,"/>
+    <Name name="Tony" conditions="tiger,"/>
+    <Name name="Hobbes" conditions="tiger,male,"/>
+    <Name name="Charlie" conditions="male,"/>
+    <Name name="Max" conditions="male,"/>
+    <Name name="Jack" conditions="male,"/>
+    <Name name="Calvin" conditions="male,"/>
+    <Name name="Pip" conditions="male,"/>
+    <Name name="Charlie" conditions="male,"/>
+    <Name name="Max" conditions="male,"/>
+    <Name name="Coda" conditions=""/>
+    <Name name="Remus" conditions="wolf,male,"/>
+    <Name name="Zephyer" conditions=""/>
+    <Name name="Nikai" conditions=""/>
+    <Name name="Star" conditions=""/>
+    <Name name="Nikki" conditions=""/>
+    <Name name="Davis" conditions=""/>
+    <Name name="Rose" conditions="female,(light red,red,dark red,)"/>
+    <Name name="Kaltag" conditions="(tan,light brown,brown,),"/>
+</data>

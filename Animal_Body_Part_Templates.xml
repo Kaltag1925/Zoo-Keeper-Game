@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <Template name="four claw leg with dew claw">
+        <BodyPart name="thigh" tags="attached,">
+            <BodyPart name="knee" tags="attached,">
+                <BodyPart name="shin" tags="attached,">
+                    <BodyPart name="paw" tags="attached,">
+                        <BodyPart name="dew claw" tags="attached,"/>
+                        <BodyPart name="first toe" tags="attached,">
+                            <BodyPart name="first claw" tags="attached,"/>
+                        </BodyPart>
+                        <BodyPart name="second toe" tags="attached,">
+                            <BodyPart name="second claw" tags="attached,"/>
+                        </BodyPart>
+                        <BodyPart name="third toe" tags="attached,">
+                            <BodyPart name="third claw" tags="attached,"/>
+                        </BodyPart>
+                        <BodyPart name="fourth toe" tags="attached,">
+                            <BodyPart name="fourth claw" tags="attached,"/>
+                        </BodyPart>
+                    </BodyPart>
+                </BodyPart>
+            </BodyPart>
+        </BodyPart>
+    </Template>
+    <Template name="four claw leg">
+        <BodyPart name="thigh" tags="attached,">
+            <BodyPart name="knee" tags="attached,">
+                <BodyPart name="shin" tags="attached,">
+                    <BodyPart name="paw" tags="attached,">
+                        <BodyPart name="first toe" tags="attached,">
+                            <BodyPart name="first claw" tags="attached,"/>
+                        </BodyPart>
+                        <BodyPart name="second toe" tags="attached,">
+                            <BodyPart name="second claw" tags="attached,"/>
+                        </BodyPart>
+                        <BodyPart name="third toe" tags="attached,">
+                            <BodyPart name="third claw" tags="attached,"/>
+                        </BodyPart>
+                        <BodyPart name="fourth toe" tags="attached,">
+                            <BodyPart name="fourth claw" tags="attached,"/>
+                        </BodyPart>
+                    </BodyPart>
+                </BodyPart>
+            </BodyPart>
+        </BodyPart>
+    </Template>
+    <Template name="five claw leg">
+        <BodyPart name="thigh" tags="attached,">
+            <BodyPart name="knee" tags="attached,">
+                <BodyPart name="shin" tags="attached,">
+                    <BodyPart name="paw" tags="attached,">
+                        <BodyPart name="first toe" tags="attached,">
+                            <BodyPart name="first claw" tags="attached,"/>
+                        </BodyPart>
+                        <BodyPart name="second toe" tags="attached,">
+                            <BodyPart name="second claw" tags="attached,"/>
+                        </BodyPart>
+                        <BodyPart name="third toe" tags="attached,">
+                            <BodyPart name="third claw" tags="attached,"/>
+                        </BodyPart>
+                        <BodyPart name="fourth toe" tags="attached,">
+                            <BodyPart name="fourth claw" tags="attached,"/>
+                        </BodyPart>
+                        <BodyPart name="fifth toe" tags="attached,">
+                            <BodyPart name="fifth claw" tags="attached,"/>
+                        </BodyPart>
+                    </BodyPart>
+                </BodyPart>
+            </BodyPart>
+        </BodyPart>
+    </Template>
+    <Template name="head with snout" tags="attached,">
+        <BodyPart name="left eye" tags="essential:vision,inside,"/>
+        <BodyPart name="right eye" tags="essential:vision,inside,"/>
+        <BodyPart name="left ear" tags="attached,essential:hearing,"/>
+        <BodyPart name="right ear" tags="attached,essential:hearing,"/>
+        <BodyPart name="brain" tags="essential:all,inside,"/>
+        <BodyPart name="snout" tags="attached,">
+            <BodyPart name="mouth" tags="attached,">
+                <BodyPart name="jaw" tags="attached,helps:digestion,">
+                    <BodyPart name="teeth" tags="inside,helps:digestion,"/>
+                </BodyPart>
+            </BodyPart>
+            <BodyPart name="nose" tags="attached,essential:smell,"/>
+        </BodyPart>
+    </Template>
+    <Template name="mammal torso" tags="base">
+        <BodyPart name="heart" tags="inside,essential:blood,"/>
+        <BodyPart name="spine" tags="inside,essential:movement,"/>
+        <BodyPart name="stomach" tags="inside,essential:digestion,"/>
+        <BodyPart name="right lung" tags="inside,essential:breathing,"/>
+        <BodyPart name="left lung" tags="inside,essential:breathing,"/>
+        <BodyPart name="right kidney" tags="inside,essential:blood,"/>
+        <BodyPart name="left kidney" tags="inside,essential:blood,"/>
+        <BodyPart name="intestines" tags="inside,essential:digestion,"/>
+        <BodyPart name="reproductive organs" tags="inside,essential:reproduction,"/>
+    </Template>
+</data>

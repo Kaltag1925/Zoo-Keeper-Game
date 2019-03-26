@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <Job name="Veterinarian" meanSalary="120000.0" skillPayMultiplier="1.4" implemented="true"/>
+    <Job name="Curator" meanSalary="105000.0" skillPayMultiplier="1.05" implemented="false"/>
+    <Job name="Manager" meanSalary="120000.0" skillPayMultiplier="1.1" implemented="false"/>
+    <Job name="Accountant" meanSalary="70000.0" skillPayMultiplier="1.05" implemented="false"/>
+    <Job name="Zoo Keeper" meanSalary="40000.0" skillPayMultiplier="1.02" implemented="true"/>
+
+    <Job name="Inventory Manager" meanSalary="120000" skillPayMultiplier="1.2" implemented="false"/>
+    <Job name="Cashier" meanSalary="120000" skillPayMultiplier="1.2" implemented="false"/>
+    <Job name="Janitor" meanSalary="120000" skillPayMultiplier="1.2" implemented="false"/>
+</data>
